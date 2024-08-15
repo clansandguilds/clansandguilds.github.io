@@ -2,17 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.clansandguilds.gg/</loc>
-         <lastmod>2024-07-29</lastmod>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/contact/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/discord/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/pre-alpha/</loc>
+         <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.clansandguilds.gg/blog/</loc>
-         <lastmod>2024-07-29</lastmod>
+         <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://www.clansandguilds.gg/cng/</loc>
-         <lastmod>2024-07-29</lastmod>
+         <loc>https://www.clansandguilds.gg/blog/2024/07/30/test-blog-post/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/design/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/design/clans/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/design/crafting/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/design/domination/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/design/raiding/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.clansandguilds.gg/blog/archive/2024/</loc>
+         <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
