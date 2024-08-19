@@ -21,3 +21,27 @@
 .md-header__button.md-logo {
     padding: 0rem;
 }
+.color-gold {
+    color: #ffd86e;
+}
+.color-dark-gold {
+    color: #ffc05e;
+}
+.color-electric-blue {
+    color: #3da0ff;
+}
+.color-blue-grey {
+    color: #212838;
+}
+.color-ivory {
+    color: #fffff0;
+}
+.color-banner-black {
+    color: #14151a;
+}
+.color-banner-grey {
+    color: #1e2129;
+}
+.color-static-site-grey {
+    color: #272a35;
+}
